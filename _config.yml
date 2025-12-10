@@ -1,9 +1,9 @@
 # ============================
 # BASIC SITE SETTINGS
 # ============================
-navigation: true
-
 remote_theme: "mmistakes/so-simple-theme"
+include: ["_data"]
+navigation: true
 skin: "/assets/css/skins/default.css"
 locale: en-US
 
