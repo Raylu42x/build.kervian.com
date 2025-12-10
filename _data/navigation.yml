@@ -1,16 +1,11 @@
-# Sample site navigation bar links
-
-- title: Home
-  url: /
-# - title: Posts
-#   url: /posts/
-# - title: Categories
-#   url: /categories/
-title: Tags
-url: /tags/
-# - title: Recipes
-#   url: /recipes/
-title: Search
-url: /search/
-title: Kervian
-url: https://kervian.com
+main:
+  - title: Home
+    url: /
+  - title: Search
+    url: /search/
+  - title: Tutorials
+    url: /tutorials/
+  - title: Projects
+    url: /projects/
+  - title: Kervian
+    url: https://kervian.com
