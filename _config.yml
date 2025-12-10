@@ -1,6 +1,7 @@
 # ============================
 # BASIC SITE SETTINGS
 # ============================
+navigation: true
 
 remote_theme: "mmistakes/so-simple-theme"
 skin: "/assets/css/skins/default.css"
