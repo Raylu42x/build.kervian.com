@@ -1,11 +1,10 @@
-main:
-  - title: Home
-    url: /
-  - title: Search
-    url: /search/
-  - title: Tutorials
-    url: /tutorials/
-  - title: Projects
-    url: /projects/
-  - title: Kervian
-    url: https://kervian.com
+title: Home
+url: /
+title: Search
+url: /search/
+title: Tutorials
+url: /tutorials/
+title: Projects
+url: /projects/
+title: Kervian
+url: https://kervian.com
