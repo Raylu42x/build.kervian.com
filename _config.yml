@@ -10,8 +10,8 @@ locale: en-US
 title: "Build Fun Stuff"
 description: "Coding & DIY Stuff"
 
-# When using a custom domain:
-url: "https://build.kervian.com.com"
+# When using a custom domain:u
+url: "https://build.kervian.com"
 baseurl: ""
 
 # Optional logo (leave blank if none)
