@@ -1,5 +1,4 @@
-main:
-  - title: Home
-    url: /
-  - title: Search
-    url: /search/
+title: Home
+url: /
+title: Search
+url: /search/
