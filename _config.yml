@@ -6,11 +6,11 @@ remote_theme: "mmistakes/so-simple-theme"
 skin: "/assets/css/skins/default.css"
 locale: en-US
 
-title: "Build"
-description: "Coding & DIY tutorials"
+title: "Build Fun Stuff"
+description: "Coding & DIY Stuff"
 
 # When using a custom domain:
-url: "https://build.kingbennett.com"
+url: "https://build.kervian.com.com"
 baseurl: ""
 
 # Optional logo (leave blank if none)
