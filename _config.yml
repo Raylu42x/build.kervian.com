@@ -74,7 +74,4 @@ author:
 # FOOTER LINKS
 # ============================
 
-footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+footer_links: false
