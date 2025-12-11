@@ -5,7 +5,6 @@ remote_theme: "mmistakes/so-simple-theme"
 include: ["_data"]
 navigation: true
 skin: "/assets/css/skins/default.css"
-custom_css: ["/assets/css/custom.css"]
 locale: en-US
 
 title: "Build Fun Stuff"
