@@ -68,14 +68,8 @@ defaults:
 # ============================
 # AUTHOR (kept empty)
 # ============================
-
 author:
-  name:
-  picture:
-  email:
-  twitter:
-  links: []
-
+  links: false
 # ============================
 # FOOTER LINKS
 # ============================
