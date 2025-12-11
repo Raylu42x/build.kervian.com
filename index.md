@@ -5,4 +5,5 @@ show_excerpts: true
 entries_layout: list
 ---
 
-# hi this is my stuff
+# This is Stuff
+
