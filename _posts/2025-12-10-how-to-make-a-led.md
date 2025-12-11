@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Build an LED"
-tags: [project]
+tags: [guide, project, led, tutorial]
 ---
 
 Welcome to this LED project.
