@@ -8,7 +8,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 
 title: "Build Fun Stuff"
-description: "Coding & DIY Stuff"
+description: "Coding & DIY Stuff For You"
 
 # When using a custom domain:u
 url: "https://build.kervian.com"
